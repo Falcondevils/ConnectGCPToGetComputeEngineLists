@@ -21,5 +21,5 @@ d) Make sure to run below command in your command prompt to make sure your cloud
 
 About Solution
 Google.apis dll will need to be added to the solution from nuget package manager
-All the cloud spanner code is in GCPInstanceListController.cs. That file is enough to go through all the code.
+All the code is in GCPInstanceListController.cs. That file is enough to go through all the code.
 Change the constant variables in that file for your Project Id and zone. 
