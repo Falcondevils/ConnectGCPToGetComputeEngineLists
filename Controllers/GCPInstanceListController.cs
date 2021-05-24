@@ -16,7 +16,7 @@ namespace ConnectGCPToGetComputeEngineLists.Controllers
     [Route("[controller]")]
     public class GCPInstanceListController : ControllerBase
     {
-        string projectId = "qualified-ace-275901";
+        string projectId = "kubectltestprojectpburnwal1";
 
         private readonly ILogger<GCPInstanceListController> _logger;
 
